@@ -31,7 +31,7 @@ body {
   text-align: center;
 }
 
-/* crafcik cfel */
+/* CMD */
 .cmd-title {
   font-size: 60px;
   font-weight: 900;
