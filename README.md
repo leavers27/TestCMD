@@ -1,5 +1,5 @@
-# TestCMD
-[quiz67.html](https://github.com/user-attachments/files/24458441/quiz67.html)
+
+
 <!DOCTYPE html>
 <html lang="pl">
 <head>
